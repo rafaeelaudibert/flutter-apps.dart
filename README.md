@@ -1,4 +1,4 @@
-# <img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Flutter" width="40" height="40" /> My Flutter Apps
+# <img src="https://dart-code.gallerycdn.vsassets.io/extensions/dart-code/flutter/3.1.0/1559317759456/Microsoft.VisualStudio.Services.Icons.Default" alt="Flutter" width="50" height="50" /> My Flutter Apps
 
 > Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
 
